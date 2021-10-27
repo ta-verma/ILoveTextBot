@@ -20,13 +20,13 @@ A bot to extract text out of images.
 
 # Ping Bot
 ### Bot  URL: `https//t.me/photototextbot`
-[Click Here to ping ](https//t.me/photototextbot)
+[Click Here to ping ](https//t.me/photototextbot/)
 
 
 
 # Built With
 
-* [Python](https://[www.python.org](https://www.python.org/))
+* [Python](https://www.python.org/)
 * [Python-telegram-Bot Wrapper Class](https://github.com/python-telegram-bot/python-telegram-bot)
 * [Telegram API](https://core.telegram.org/)
 
