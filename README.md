@@ -19,8 +19,8 @@ A bot to extract text out of images.
 
 
 # Ping Bot
-### Bot  URL: `https//t.me/photototextbot`
-[Click Here to ping ](https//t.me/photototextbot/)
+### Bot  URL: `https://t.me/photototextbot`
+[Click Here to ping ](https://t.me/photototextbot/)
 
 
 
